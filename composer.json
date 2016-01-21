@@ -1,5 +1,5 @@
 {
-    "name": "bradfeehan/guzzle-modular-service-descriptions",
+    "name": "scotwells/guzzle-modular-service-descriptions",
     "description": "A better ServiceDescriptionLoader for Guzzle 3.x",
     "keywords": ["guzzle", "service description"],
     "license": "MIT",
